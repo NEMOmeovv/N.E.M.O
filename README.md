@@ -1,17 +1,17 @@
-# Shapely
+# LIVE DEMO :- <a href="https://bombdefuser1.ccbp.tech/">Bomb Defuser</a>
+# Bomb-Defuser-dynamic-webapplication</br>
 
-## About Shapely
+### Refer to the below image.</br>
 
-Shapely is a powerful and versatile one page WordPress theme with pixel perfect design and outstanding functionality. It is by far the most advanced free WordPress theme available today with loads of unmatched customization options. This theme comes with several homepage widgets that can be used to add portfolio, testimonials, parallax sections, your product or service information, call for action and much more.
+-------------------------------------------------------------------------------------------
 
-Shapely supports most free and premium WordPress plugins such as WooCommerce, Jetpack, Gravity Forms, Contact Form 7, Yoast SEO, Google Analytics by Yoast and much more.
+https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/dynamic-webapps/defuse-the-bomb-v1.gif</br>
 
-This theme is the best suited for business, landing page, portfolio, ecommerce, store, local business,  personal websites but can be tweaked to be used as blog, magazine or any other awesome website while highlighting its unique one page setup. This is going to be the last WordPress theme you will ever want to use because it is so much better than anything you have seen. We promise.
+Thank you for using our template!
 
-## Documentation
+For more awesome templates please visit https://colorlib.com/wp/templates/
 
-Theme documentation available [here](https://colorlib.com/wp/themes/shapely/).
+Copyright information for the template can't be altered/removed unless you purchase a license.
+More information about the license is available here: https://colorlib.com/wp/licence/
 
-## License
-
-This theme is licensed under GPLv3. You can feel free to modify it as loon gas you keep the original copyright information.
+Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
