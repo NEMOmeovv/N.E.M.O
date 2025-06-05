@@ -26,24 +26,5 @@ def pricing():
 def contact():
     return render_template('contact.html')
 
-@app.route('/hidden_index.html', methods=["Get","POST"])
-def hidden_index():
-    # POST 요청에서 'shh' 값을 가져옴
-    egg = request.form.get('shh')
-
-    # 값이 "sally"가 아닌 경우 아무것도 하지 않고 현재 페이지에 머무름
-    if egg != "sally":
-        return "", 204  # 204 No Content 상태 코드 반환
-    # 값이 "sally"인 경우 정상적으로 렌더링
-    return render_template('hidden_index.html')
-
-@app.route('/hidden_services.html')
-def hidden_service():
-    return render_template('hidden_services.html')
-
-@app.route('/bomb.html')
-def bomb():
-    return render_template('bomb.html')
-
 if __name__ == "__main__":
     app.run(debug=True, host="0.0.0.0", port=port)  # 여기서 포트를 설정합니다.
